@@ -1,1 +1,13 @@
-Practices
+resize_imgs.ipynb：訓練用画像のサイズ調整
+
+Rola_test_1.ipynb：記事を見て実装した、自分の絵柄で画像生成モデルを訓練するもの（まだ効果が悪いが）
+
+kohya_LoRA_dreambooth.ipynb：直接kohya_LoRA_dreamboothの公式githubからコピーしたもの。絵柄で画像生成モデル。
+
+
+
+
+
+
+
+
