@@ -1,12 +1,17 @@
-resize_imgs.ipynb：訓練用画像のサイズ調整
+resize_imgs.ipynb：訓練用画像のサイズ調整。
 
-Rola_test_1.ipynb：記事を見て実装した、自分の絵柄で画像生成モデルを訓練するもの（まだ効果が悪いが）
+Rola_test_1.ipynb：記事を見て実装した、自分の絵柄で画像生成モデルを訓練するもの（まだ効果が悪いが）。
 
-kohya_LoRA_dreambooth.ipynb：直接kohya_LoRA_dreamboothの公式githubからコピーしたもの。絵柄で画像生成モデル。
+kohya_LoRA_dreambooth.ipynb：直接kohya_LoRA_dreamboothの公式githubからコピーしたもの。絵柄再現の画像生成モデル。
 
+imgs_to_prompts.ipynb：画像からプロンプトを生成する（これもほとんどコピーしたものだけ）。
+write_prompts_txt_by_yourself.ipynb：入力からプロンプトのtxtファイルを作る。
 
+rename_files.ipynb：フォルダ内のファイル名をバッチで変更。
 
+image_classification_VGG16.ipynb：ラベルありのデータを学習し、分類モデルを訓練。
 
+他のファイル：ただ色々試しているもの
 
 
 
