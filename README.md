@@ -1,7 +1,7 @@
 
 train_model_with_your_own_paintings.ipynb：自分の絵柄で画像生成モデルを訓練する  &  text to img
 
-![a-1](./readme_imgs/a-1.jpg)
+![a-1](./readme_imgs/a-1.jpg) 
 
 
 resize_imgs.ipynb：訓練用画像のサイズ調整。
